@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    color: black;
+    font-family: Arial, sans-serif;
+    background-color: darkmagenta;
+}
+.bdyaln {
+    text-align: center;
+}
+header {
+    font-size: 120%;
+    color: black;
+}
+.button {
+    border-radius: 50px;
+    font-size: 30px;
+    border-width: 5px;
+    transition: 0.3s;
+}
+.button:hover {
+    font-size: 35px;
+}
+.button2 {
+    border-radius: 25px;
+    font-size: 15px;
+    border-width: 5px;
+    transition: 0.3s;
+    align-items: top;
+    text-align: left;
+}
+.button2:hover {font-size: 20px;}
+.wav {
+    position: absolute;
+}
+.div2 {
+    position: relative;
+}
+.div3 {
+    position: absolute;
+    position: relative;
+}
+#m1 {
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 2px;
+}
+#mp {
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+#m2 {
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 2px;
+}
+.div4 {
+    position: absolute;
+    position: relative;
+}
+.copy {
+    position: absolute;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
